@@ -1,0 +1,60 @@
+body {
+    background-color: darkgreen;
+    color: coral;
+}
+
+a{
+    text-decoration: none;
+    color: purple;
+    cursor: grab;
+    text-shadow: none;
+    font-weight: bold;
+    float: left;
+
+}
+
+.shadow {
+    text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.83);
+    padding: 20px;
+    text-indent: 20px;
+    margin: 15px;
+}
+
+.i {
+    font-style: italic;
+}
+
+.g {
+    font-weight: bold;
+}
+
+.cadre {
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+#img {
+    float: right;
+    margin: 5px;
+}
+
+ul {
+    list-style-type: square;
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 100px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+
+#right {
+    float: right;
+    margin-right: 5px;
+}
+
+#center {
+    margin-left: 400px;
+}
+
